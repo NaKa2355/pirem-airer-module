@@ -1,0 +1,8 @@
+github.com/NaKa2355/pirem v0.0.0-20230802145300-09569d9836f8 h1:/I0SiP62MHU9H63h6Er3S3ICPCGveDsmkcjcsxkZXuM=
+github.com/NaKa2355/pirem v0.0.0-20230802145300-09569d9836f8/go.mod h1:Y699R4SS067o6YQ6jLdoZPuHl3O5Ncw/hjiWUPPxY7Q=
+github.com/NaKa2355/pirem_airer_module v0.0.0-20230728080157-36ede2950d5b h1:D3DVW/WycxiiYIy+AfxQjlCjg42zNndAx5bnyr/OuiY=
+github.com/NaKa2355/pirem_airer_module v0.0.0-20230728080157-36ede2950d5b/go.mod h1:ZiRcHyO4FPfV/b7sdwivmRvPNi0cDHamib4SI5O6KUo=
+periph.io/x/conn/v3 v3.7.0 h1:f1EXLn4pkf7AEWwkol2gilCNZ0ElY+bxS4WE2PQXfrA=
+periph.io/x/conn/v3 v3.7.0/go.mod h1:ypY7UVxgDbP9PJGwFSVelRRagxyXYfttVh7hJZUHEhg=
+periph.io/x/host/v3 v3.8.2 h1:ayKUDzgUCN0g8+/xM9GTkWaOBhSLVcVHGTfjAOi8OsQ=
+periph.io/x/host/v3 v3.8.2/go.mod h1:yFL76AesNHR68PboofSWYaQTKmvPXsQH2Apvp/ls/K4=

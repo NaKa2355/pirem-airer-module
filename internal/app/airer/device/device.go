@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
+	"github.com/NaKa2355/pirem-airer-module/internal/app/airer/driver"
 	plugin "github.com/NaKa2355/pirem/pkg/module/v1"
-	"github.com/NaKa2355/pirem_airer_module/internal/app/airer/driver"
 )
 
 type Device struct {
