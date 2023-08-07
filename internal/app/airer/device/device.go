@@ -35,7 +35,7 @@ func convertErr(err error) error {
 	case driver.ErrUnsupportedData:
 		return plugin.WrapErr(plugin.CodeInvaildInput, err)
 	default:
-		return plugin.WrapErr(plugin.CodeDevice, err)
+		return plugin.WrapErr(plugin.CodeUnknown, err)
 	}
 }
 
