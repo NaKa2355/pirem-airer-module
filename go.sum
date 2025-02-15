@@ -4,6 +4,8 @@ github.com/NaKa2355/pirem v0.0.0-20230807193445-28cabaf4b1fe h1:fXZQ5mSoF0eqdbOz
 github.com/NaKa2355/pirem v0.0.0-20230807193445-28cabaf4b1fe/go.mod h1:A4eWZtwzz2lJvutNvFPLrN57qESOemlDVo0Ct+uocs8=
 github.com/NaKa2355/pirem v0.0.0-20230807194734-a89bdbc7a7ba h1:ebqpb9RmxVkaoqhYS4AUsAqzkzciXgSLQ8BHIkWnrJo=
 github.com/NaKa2355/pirem v0.0.0-20230807194734-a89bdbc7a7ba/go.mod h1:A4eWZtwzz2lJvutNvFPLrN57qESOemlDVo0Ct+uocs8=
+github.com/NaKa2355/pirem v0.0.0-20250215040329-c629e868cd76 h1:pQk3X7wTIH3+JfTq7QpRqC2+SPn0uOFmWClgvZ6pgYE=
+github.com/NaKa2355/pirem v0.0.0-20250215040329-c629e868cd76/go.mod h1:itd1xdv/vIj7FAoN1fBhFjNIlKcVlXRmLHgW36lhOwE=
 github.com/jonboulle/clockwork v0.3.0 h1:9BSCMi8C+0qdApAp4auwX0RkLGUjs956h0EkuQymUhg=
 periph.io/x/conn/v3 v3.7.0 h1:f1EXLn4pkf7AEWwkol2gilCNZ0ElY+bxS4WE2PQXfrA=
 periph.io/x/conn/v3 v3.7.0/go.mod h1:ypY7UVxgDbP9PJGwFSVelRRagxyXYfttVh7hJZUHEhg=

@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 
 	"github.com/NaKa2355/pirem-airer-module/internal/app/airer/driver"
-	plugin "github.com/NaKa2355/pirem/pkg/module/v1"
+	plugin "github.com/NaKa2355/pirem/pkg/driver_module/v1"
 )
 
 type Device struct {
@@ -19,7 +19,9 @@ type DeviceConfig struct {
 
 const DriverVersion = "0.1.0"
 
-var _ plugin.Driver = &Device{}
+var _ plugin.Device = &Device{}
+var _ plugin.Sender = &Device{}
+var _ plugin.Receiver = &Device{}
 
 func convertErr(err error) error {
 	if err == nil {
@@ -46,8 +48,6 @@ func (dev *Device) setInfo() error {
 	if err != nil {
 		return err
 	}
-	dev.info.CanReceive = true
-	dev.info.CanSend = true
 	dev.info.FirmwareVersion = firmVersion
 	dev.info.DriverVersion = DriverVersion
 	return nil
